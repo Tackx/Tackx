@@ -2,7 +2,7 @@
 
 Developer of [Kapka pro ušáčka](https://www.kapkaprousacka.cz), which helps save rabbit's lives by helping owners of rabbits in need of a blood transfusion get in touch with possible blood donors.
 
-## Other Projects:
+## Other Projects
 
 ### [Helldive Helper](https://www.helldivehelper.net)
 - Customize loadouts for your team in Helldivers 2 and easily share with your friends. 
