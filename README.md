@@ -1,4 +1,4 @@
-# Full-time IT Analyst, hobbyist Developer.
+# Full-time IT Analyst, hobbyist Developer
 
 Developer of [Kapka pro ušáčka](https://www.kapkaprousacka.cz), which helps save rabbit's lives by helping owners of rabbits in need of a blood transfusion get in touch with possible blood donors.
 
