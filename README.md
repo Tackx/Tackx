@@ -5,7 +5,10 @@ Developer of [Kapka pro ušáčka](https://www.kapkaprousacka.cz), which helps s
 ## Other Projects
 
 ### [Helldive Helper](https://www.helldivehelper.net)
-- Customize loadouts for your team in Helldivers 2 and easily share with your friends. 
+- Customize loadouts for your team in Helldivers 2 and easily share with your friends.
 
-## My Preferred Stack
-![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![Vue.js](https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D)
+### [xilt](https://github.com/thevxn/xilt)
+- A utility for parsing Common and Combined Log Format (CLF) log files and storing them in SQLite for further analysis. Built with concurrency in mind. 
+
+## My Preferred Tech
+![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![Vue.js](https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D) ![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
