@@ -4,11 +4,14 @@ Developer of [Kapka pro ušáčka](https://www.kapkaprousacka.cz), which helps s
 
 ## Other Projects
 
-### [Helldive Helper](https://www.helldivehelper.net)
-- Customize loadouts for your team in Helldivers 2 and easily share with your friends.
+### [**dish**](https://github.com/thevxn/dish)
+  - A lightweight monitoring service that efficiently checks socket connections and can be configured remotely.
 
 ### [xilt](https://github.com/thevxn/xilt)
 - A utility for parsing Common and Combined Log Format (CLF) log files and storing them in SQLite for further analysis. Built with concurrency in mind. 
 
+### [Helldive Helper](https://www.helldivehelper.net)
+- Customize loadouts for your team in Helldivers 2 and easily share with your friends.
+
 ## My Preferred Tech
-![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![Vue.js](https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D) ![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
+![preferred tech](https://simpleskill.icons.workers.dev/svg?i=go,node.js,vue.js,postgresql,docker)
